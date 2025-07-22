@@ -1,4 +1,5 @@
 {
-  "model_name": "skin",
-  "version": "v1"
+  "model": "demo_model_4",
+  "uri": "s3://bucket/model_4.pkl",
+  "registered_on": "2025-07-22T12:57:13.955381"
 }
